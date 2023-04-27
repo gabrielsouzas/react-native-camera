@@ -1,4 +1,4 @@
-# OneBitHealth - Projeto de Estudo de React Native - One Bit Code
+# React-Native-Camera - Projeto de Estudo de React Native - One Bit Code
 
 Este é um projeto de estudo de React Native criado com o objetivo de aprender os conceitos básicos da biblioteca e desenvolver habilidades na criação de aplicativos móveis.
 
@@ -71,6 +71,14 @@ Exemplo no seu dispositivo:
 * Aponte a câmera do seu dispositivo para o QR code exibido no seu navegador e aguarde alguns segundos.
 
 * O aplicativo deve ser carregado no seu dispositivo móvel e você poderá testá-lo normalmente.
+
+## 🖥️ Instalação das dependências
+
+Para instalar as dependências do projeto execute o comando abaixo no terminal:
+
+~~~node~~~
+expo install expo-camera expo-contacts expo-sensors
+~~~
 
 ## 🛠️ Recursos e Tecnologias
 
